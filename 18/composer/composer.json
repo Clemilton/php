@@ -1,0 +1,15 @@
+{
+    "name": "clemilton/composer",
+    "description": "Aula de php7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Clemilton Pereira",
+            "email": "clemilton.ufam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
