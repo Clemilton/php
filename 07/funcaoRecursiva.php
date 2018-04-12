@@ -77,4 +77,15 @@ function exibe($cargos){
 }
 
 echo exibe($hierarquia);
+
+/*Saida
+
+*CEO
+	* Diretor Comercial
+		* Gerente de vendas
+	* Diretor Financeiro
+		* Gerente de Contas a Pagar
+			* Supervisor de Pagamentos
+		* Gerente de Compras
+			* Supervisor de Suprimentos
 ?>
